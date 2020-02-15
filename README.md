@@ -1,0 +1,2 @@
+# real_estate_auctions_forecast_model_deploy
+Deploy on Google Sheet of a supervised machine learning model in Python that forecasts real estate auctions results in Italy in order to focus business efforts and maximize productivity.
